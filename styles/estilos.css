@@ -468,8 +468,8 @@ img.fb {
 .topnav {
   overflow: hidden;
   background-color: #333;
-	margin-left: 0;
-	margin-right: 0;
+	right: 0px;
+	top: 0px;
 	position: fixed;
 }
 
