@@ -1,2 +1,2 @@
-# pakindev
-Pakin development ambient
+# pakin
+pakin
