@@ -109,6 +109,8 @@
 
 
 		<link rel="icon" type="image/gif" href="images/cat.png">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 
 		<!--meta name="viewport" content="width=device-width, initial-scale=1.0"-->
 		<meta name="description" content="Inspiración y Conocimiento.">
@@ -161,27 +163,25 @@
 		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
 
-			<div id="cssmenu">
-				<nav class = "fix">
-					<ul>
-						<li><a href="https://www.pakin.lat/"><img class="logo" src="images/p2.png" alt="Pakin"></a></li>
-						<li><a href="https://www.pakin.lat/pakin.html">Pakin</a></li>
-						<li class="mobileHideBY"><div>
+			<div class="topnav" id="myTopnav">
+				<a href="https://www.pakin.lat/"><img class="logo" src="images/p2.png" alt="Pakin"></a>
+				<a href="https://www.pakin.lat/pakin.html">Pakin</a>
+				<div class="mobileHideBY">
 							<script src="https://apis.google.com/js/platform.js"></script>
 							<div class="g-ytsubscribe" data-channelid="UCq8uycqV1nI1eSeAcC0pveA" data-layout="full" data-theme="dark" data-count="default"></div>
-						</div></li>
-						<li class="mobileHideBP"><div>
+				</div>
+				<div class="mobileHideBP">
 							<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 							<input type="hidden" name="cmd" value="_s-xclick" />
 							<input type="hidden" name="hosted_button_id" value="QRHD2FWW483JL" />
 							<input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - ¡La forma más segura y fácil de pagar en línea!" alt="Dona con el botón de PayPal" />
 							<img alt="" border="0" src="https://www.paypal.com/es_MX/i/scr/pixel.gif" width="1" height="1" />
 							</form>
-						</div></li>
-						<!--li><div class="fb-like" data-href="https://www.pakin.lat/" data-width="" data-layout="button" data-action="like" data-size="large" data-share="true"></div></li-->
-					</ul>
-			</nav>
+						</div>
+			 <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 		</div>
+
+				</div>
 		<br>
 		<br>
 		<br>
@@ -362,5 +362,18 @@
 		<footer class = "footer">
   		&copy; Copyright 2020 <a href = "https://www.pakin.lat">www.pakin.lat</a>
 		</footer>
+
+
+		<script>
+			function myFunction() {
+			  var x = document.getElementById("myTopnav");
+			  if (x.className === "topnav") {
+			    x.className += " responsive";
+			  } else {
+			    x.className = "topnav";
+			  }
+			}
+	</script>
+
 	</body>
 </html>
