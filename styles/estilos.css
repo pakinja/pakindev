@@ -478,11 +478,13 @@ img.fb {
 .topnav a {
   float: left;
   display: block;
-  color: black;
+  color: white;
   text-align: center;
   padding: 40px 40px;
   text-decoration: none !important;
   font-size: 2vw;
+	font-weight: bold;
+	line-height: 70px;
 }
 
 .topnav div {
