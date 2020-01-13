@@ -467,7 +467,8 @@ img.fb {
 
 .topnav {
   overflow: hidden;
-  background-color: red;
+	background: #B22222;
+	border-bottom: 2px solid #000000;
 	right: 0px;
 	top: 0px;
 	width: 100%;
