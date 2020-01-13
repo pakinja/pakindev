@@ -473,6 +473,7 @@ img.fb {
 	width: 100%;
 	position: fixed;
 	z-index: 500;
+	height: 73px;
 }
 
 .topnav a {
