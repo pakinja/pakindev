@@ -510,9 +510,9 @@ img.fb {
 	padding-left: 120px !important;
 } */
 
-.mobileHideBP {
+/* .mobileHideBP {
 	padding-left: 170px !important;
-}
+} */
 
 /********Boton Codigo**********/
 
@@ -569,7 +569,7 @@ img.fb {
 
 .mobileHideBP {
 	z-index: 300;
-	padding-top: 25px !important;
+	padding-top: 12px !important;
 }
 
 @media screen and (max-device-width: 1075px) {
