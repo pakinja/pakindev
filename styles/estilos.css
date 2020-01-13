@@ -480,9 +480,9 @@ img.fb {
   display: block;
   color: black;
   text-align: center;
-  padding: 14px 16px;
+  padding: padding: 20px 16px;
   text-decoration: none !important;
-  font-size: 17px;
+  font-size: 2vw;
 }
 
 .topnav div {
@@ -492,7 +492,7 @@ img.fb {
   text-align: center;
   padding: 20px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 2vw;
 }
 
 .active {
