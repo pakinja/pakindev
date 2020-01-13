@@ -465,7 +465,7 @@ img.fb {
 
 /*******NAV**************/
 
-.topnav {
+.Topnav {
   overflow: hidden;
 	background: #B22222;
 	border-bottom: 2px solid #000000;
@@ -477,7 +477,7 @@ img.fb {
 	height: 73px;
 }
 
-.topnav a {
+.Topnav a {
   float: left;
   display: block;
   color: white;
@@ -491,7 +491,7 @@ img.fb {
 	line-height: 70px;
 }
 
-.topnav div {
+.Topnav div {
   float: left;
   display: block;
   color: black;
@@ -505,11 +505,6 @@ img.fb {
   background-color: #4CAF50;
   color: white;
 } */
-
-.topnav .icon {
-  display: none;
-}
-
 
 .mobileHideBY {
 	padding-left: 120px !important;
