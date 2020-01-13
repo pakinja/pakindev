@@ -506,9 +506,9 @@ img.fb {
   color: white;
 } */
 
-.mobileHideBY {
+/* .mobileHideBY {
 	padding-left: 120px !important;
-}
+} */
 
 .mobileHideBP {
 	padding-left: 170px !important;
@@ -563,10 +563,9 @@ img.fb {
 }
 /**********/
 
-.mobileHideBY {
-	/*z-index: 300;*/
+/* .mobileHideBY {
 	padding-top: 13px !important;
-}
+} */
 
 .mobileHideBP {
 	z-index: 300;
