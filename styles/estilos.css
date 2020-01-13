@@ -483,8 +483,8 @@ img.fb {
   color: white;
   text-align: center;
   padding top: 8px;
-	padding-right: 40px;
-	padding-left: 40px;
+	padding-right: 60px;
+	padding-left: 60px;
   text-decoration: none !important;
   font-size: 2vw;
 	font-weight: bold;
@@ -563,9 +563,9 @@ img.fb {
 }
 /**********/
 
-/* .mobileHideBY {
+.mobileHideBY {
 	padding-top: 13px !important;
-} */
+}
 
 .mobileHideBP {
 	z-index: 300;
