@@ -553,7 +553,7 @@ img.fb {
   color: black;
 }*/
 
-.dropdown:hover .dropdown-content {
+/*.dropdown:hover .dropdown-content {
   display: block;
 }
 
@@ -586,7 +586,7 @@ img.fb {
     width: 100%;
     text-align: left;
   }
-}
+}*/
 
 .mobileHideBY {
 	padding-left: 120px !important;
