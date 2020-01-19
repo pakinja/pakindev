@@ -640,7 +640,6 @@ div.mobileHideM {
   background-color: #000000;
   border: none;
   color: white;
-  padding: 10px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -649,4 +648,7 @@ div.mobileHideM {
   margin: 4px 2px;
   cursor: pointer;
 	border-radius: 6px;
+	padding top: 8px;
+	padding-right: 60px;
+	padding-left: 60px;
 }
