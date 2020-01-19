@@ -644,11 +644,10 @@ div.mobileHideM {
   text-decoration: none;
   display: inline-block;
   font-size: 2vw;
-	font-weight: bold;
   cursor: pointer;
 	border-radius: 6px;
 	padding top: 40px;
-	padding-right: 40px;
-	padding-left: 40px;
+	padding-right: 30px;
+	padding-left: 30px;
 	margin-right: 20px;
 }
