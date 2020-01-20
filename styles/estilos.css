@@ -640,8 +640,8 @@ a.button-s {
 	margin: 35px;
 	margin-left: 0px;
 	background-color: #000000;
-	-moz-border-radius: 5px !important;
-	-webkit-border-radius: 2px !important;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 2px;
 	border-radius:6px;
 	color: #fff;
 	font-size: 22px;
