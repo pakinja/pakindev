@@ -636,7 +636,7 @@ div.mobileHideM {
 -webkit-transform: translateZ(0px);
 } */
 
-.button-s {
+#button-s {
 	margin: 35px;
 	margin-left: 0px;
 	background-color: #000000;
@@ -651,7 +651,7 @@ div.mobileHideM {
 	padding: 15px 12px 15px 15px;
 }
 
-.buton-s:hover {
+#buton-s:hover {
     border: none;
     background:red;
     box-shadow: 0px 0px 1px #777;
